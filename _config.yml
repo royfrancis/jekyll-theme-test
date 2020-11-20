@@ -1,7 +1,7 @@
 name: Jekyll-Theme-Test
 
 project:
-  version: v1.0.0
+  version: 1.0.0
   download_url: https://github.com/royfrancis/trianglify
   download_text: Theme
 
