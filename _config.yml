@@ -2,7 +2,7 @@ name: Jekyll-Theme-Test
 
 project:
   version: 1.0.0
-  download_url: https://github.com/royfrancis/trianglify
+  download_url: https://github.com/royfrancis/jekyll-theme-test
   download_text: Theme
 
 license:
@@ -22,15 +22,15 @@ links:
     - title: View on GitHub
       icon: github
       brand: true
-      url: https://github.com/royfrancis/trianglify
+      url: https://github.com/royfrancis/jekyll-theme-test
   footer:
     - title: Trianglify
       icon: github
       brand: true
-      url: https://github.com/royfrancis/trianglify
+      url: https://github.com/royfrancis/jekyll-theme-test
     - title: Issues
       icon: bug
-      url: https://github.com/royfrancis/trianglify/issues
+      url: https://github.com/royfrancis/jekyll-theme-test/issues
 
 ui:
   mode: 'light' # 'auto', 'dark', 'light'
@@ -74,4 +74,4 @@ analytics:
   google:
 
 markdown: kramdown
-remote_theme: royfrancis/trianglify
+remote_theme: royfrancis/jekyll-theme-trianglify
